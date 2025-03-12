@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortArrayAscDesc", "SortArr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Echo", "Echo\Echo.csproj", "{7A54EB63-39FB-4466-AC50-62EE0F6DFC5F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerUp", "PowerUp\PowerUp.csproj", "{3D6BF228-63CA-4C41-A0CA-D50280360157}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{7A54EB63-39FB-4466-AC50-62EE0F6DFC5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A54EB63-39FB-4466-AC50-62EE0F6DFC5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A54EB63-39FB-4466-AC50-62EE0F6DFC5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D6BF228-63CA-4C41-A0CA-D50280360157}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D6BF228-63CA-4C41-A0CA-D50280360157}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D6BF228-63CA-4C41-A0CA-D50280360157}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D6BF228-63CA-4C41-A0CA-D50280360157}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
